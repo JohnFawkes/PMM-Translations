@@ -506,6 +506,57 @@ key_names:
   ended: Terminado
   ufo: Ovni
   mongolia: Mongolia
+  afghanistan: Afghanistán
+  åland_islands: Islas Åland
+  albania: Albania
+  algeria: Argelia
+  'andorra:': Andorra
+  'angola:': Angola
+  'anguilla:': Anguilla
+  'antarctica:': Antártica
+  'antigua:': Antigua
+  'armenia:': Armenia
+  'aruba:': Aruba
+  'azerbaijan:': Azerbaiján
+  'bahrain:': Bahrain
+  'bangladesh:': Bangladesh
+  'barbados:': Barbados
+  'belarus:': Belarús
+  'belize:': Belice
+  'benin:': Benín
+  'bermuda:': Bermuda
+  'bhutan:': Bhután
+  'bolivia:': Bolivia
+  'bonaire:': Bonaire
+  'bosnia_and_herzegovina:': Bosnia
+  'botswana:': Botswana
+  'bouvet_island:': Bouvet
+  'brunei:': Brunei
+  'burkina_faso:': Burkina
+  'burundi:': Burundi
+  'cabo_verde:': Cabo
+  'cambodia:': Camboya
+  'cameroon:': Camerún
+  'cayman_islands:': Caimán
+  'central_african_republic:': Central
+  'chad:': Chad
+  'christmas_island:': Navidad
+  'cocos_(keeling)_islands:': Cocos
+  'colombia:': Colombia
+  'comoros:': Comoras
+  'congo:': Congo
+  'cook_islands:': Cook
+  "côte_d'ivoire:": Costa
+  'cuba:': Cuba
+  'curaçao:': Curazao
+  'cyprus:': Chipre
+  'dominica:': Dominica
+  'equatorial_guinea:': Ecuatorial
+  'eritrea:': Eritrea
+  'djibouti:': Djibouti
+  'ecuador:': Ecuador
+  'egypt:': Egipto
+  'el_salvador:': El
 collections:
   bafta_best:
     name: BAFTA Mejores Películas
